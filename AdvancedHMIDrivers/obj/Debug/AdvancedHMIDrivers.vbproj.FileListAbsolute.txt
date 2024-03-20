@@ -1,0 +1,34 @@
+C:\Users\tecmo\OneDrive\Área de Trabalho\AdvancedHMIV399xPatched3\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.dll
+C:\Users\tecmo\OneDrive\Área de Trabalho\AdvancedHMIV399xPatched3\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.pdb
+C:\Users\tecmo\OneDrive\Área de Trabalho\AdvancedHMIV399xPatched3\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.xml
+C:\Users\tecmo\OneDrive\Área de Trabalho\AdvancedHMIV399xPatched3\AdvancedHMIDrivers\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+C:\Users\tecmo\OneDrive\Área de Trabalho\AdvancedHMIV399xPatched3\AdvancedHMIDrivers\bin\Debug\OpcNetApi.Com.dll
+C:\Users\tecmo\OneDrive\Área de Trabalho\AdvancedHMIV399xPatched3\AdvancedHMIDrivers\bin\Debug\OpcNetApi.dll
+C:\Users\tecmo\OneDrive\Área de Trabalho\AdvancedHMIV399xPatched3\AdvancedHMIDrivers\bin\Debug\OpcComRcw.dll
+C:\Users\tecmo\OneDrive\Área de Trabalho\AdvancedHMIV399xPatched3\AdvancedHMIDrivers\bin\Debug\OpcNetApi.xml
+C:\Users\tecmo\OneDrive\Área de Trabalho\AdvancedHMIV399xPatched3\AdvancedHMIDrivers\bin\Debug\OpcNetApi.Com.xml
+C:\Users\tecmo\OneDrive\Área de Trabalho\AdvancedHMIV399xPatched3\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbprojAssemblyReference.cache
+C:\Users\tecmo\OneDrive\Área de Trabalho\AdvancedHMIV399xPatched3\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.Resources.resources
+C:\Users\tecmo\OneDrive\Área de Trabalho\AdvancedHMIV399xPatched3\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbproj.GenerateResource.cache
+C:\Users\tecmo\OneDrive\Área de Trabalho\AdvancedHMIV399xPatched3\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbproj.CoreCompileInputs.cache
+C:\Users\tecmo\OneDrive\Área de Trabalho\AdvancedHMIV399xPatched3\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbproj.CopyComplete
+C:\Users\tecmo\OneDrive\Área de Trabalho\AdvancedHMIV399xPatched3\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.dll
+C:\Users\tecmo\OneDrive\Área de Trabalho\AdvancedHMIV399xPatched3\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.xml
+C:\Users\tecmo\OneDrive\Área de Trabalho\AdvancedHMIV399xPatched3\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.pdb
+D:\6064\AdvancedHM-LM35\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.dll
+D:\6064\AdvancedHM-LM35\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.pdb
+D:\6064\AdvancedHM-LM35\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.xml
+D:\6064\AdvancedHM-LM35\AdvancedHMIDrivers\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+D:\6064\AdvancedHM-LM35\AdvancedHMIDrivers\bin\Debug\OpcNetApi.Com.dll
+D:\6064\AdvancedHM-LM35\AdvancedHMIDrivers\bin\Debug\OpcNetApi.dll
+D:\6064\AdvancedHM-LM35\AdvancedHMIDrivers\bin\Debug\OpcComRcw.dll
+D:\6064\AdvancedHM-LM35\AdvancedHMIDrivers\bin\Debug\OpcNetApi.xml
+D:\6064\AdvancedHM-LM35\AdvancedHMIDrivers\bin\Debug\OpcNetApi.Com.xml
+D:\6064\AdvancedHM-LM35\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.Resources.resources
+D:\6064\AdvancedHM-LM35\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbproj.GenerateResource.cache
+D:\6064\AdvancedHM-LM35\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbproj.CoreCompileInputs.cache
+D:\6064\AdvancedHM-LM35\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.dll
+D:\6064\AdvancedHM-LM35\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.xml
+D:\6064\AdvancedHM-LM35\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.pdb
+D:\6064\AdvancedHM-LM35\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbprojAssemblyReference.cache
+D:\6064\AdvancedHM-LM35\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbproj.CopyComplete
